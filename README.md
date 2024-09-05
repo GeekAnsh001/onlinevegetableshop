@@ -1,8 +1,6 @@
 
 # Online Vegetable/Fruits Shop
 
-Welcome to the Online Vegetable/Fruits Shop! This README file provides a brief overview of how the script functions and guides you on how to use it.
-
 ## Overview
 
 The script is a basic command-line interface for an online vegetable and fruit shop. Users can choose to purchase vegetables, select a location, and place their order.
@@ -33,6 +31,9 @@ The script is a basic command-line interface for an online vegetable and fruit s
 5. **Complete Your Order:**
    - Once the items are added, the script will confirm that your order is in the cart and will be delivered to your doorstep.
 
+
+  ## Clone the repository  
+  
   ```bash
- cd path/to/vegetable-shop
+ cd https://github.com/GeekAnsh001/onlinevegetableshop/tree/main
  git init
